@@ -1,4 +1,4 @@
-Regan has been possessed and now speaks in a strange language 😱. Father Karras has discovered that when Regan is possessed, she completely reverses the words she says, but keeps the order of the phrases.
+Regan has been possessed and now speaks in a strange language 😱. Father Karras has discovered that when Regan is possessed, **she completely reverses the words she says**, but keeps the order of the phrases.
 
 Your mission is to create a program that translates Regan's possessed messages into normal human language.
 
